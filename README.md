@@ -1,2 +1,2 @@
 # python
-how i studied
+materials prepared for classes
